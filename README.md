@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h1>
+<h1 align="left">Hi 👋! My name is Supawin</h1>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
