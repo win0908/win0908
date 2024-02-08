@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="70" alt="figma logo"  />
 </div>
 
+<!--
 ###
 
 <br clear="both">
@@ -36,6 +37,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=win0908&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+-->
 
 ###
 
